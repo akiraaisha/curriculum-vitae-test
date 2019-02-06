@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	height: 620px;
+	width: 750px;
+	border: ridge;
+	border-color: #FFBFF6;
+	box-shadow: 0;
+}
+.title {
+	text-align: center;
+	font-family: Georgia;
+	color: aqua;
+	background-color: #BCBCBC;
+	font-weight: bold;
+	font-size: 24px;
+	letter-spacing: 1.6em;
+	word-spacing: 2em;
+}
+.info {
+	font-family: Georgia;
+	color: #670000;
+	letter-spacing: 1.4em;
+}
+body {
+	margin: 30px;
+	margin-bottom: inherit;
+
+}
+
+#the_body {
+	background:#FFF7FE;
+}
